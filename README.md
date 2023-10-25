@@ -9,7 +9,7 @@ Some audio samples before and after applying the effect can be [found here](http
 ![Plugin made by our team](plugin-team.PNG?raw=true)
 
 
-## Getting Startedf
+## Getting Started
 
 To get started and use the Tremolo VST, you should download the project as a ZIP or clone the project. You should also have installed a DAW on your computer such as FL studio. A fully-functional, free trial version with unlimited time for FL Studio can be found [here](https://www.image-line.com/fl-studio-download/). The download is available for Windows 8, 10 or 11, and MacOS 10.13.6 (High Sierra) or later.
 
